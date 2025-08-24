@@ -214,10 +214,10 @@ class Controller {
 
     async _init() {
       // Force testnet mode for all environments
-      this.isTestnet = true; // comment out this line to use mainnet
+      //this.isTestnet = true; // comment out this line to use mainnet
       return new Promise(async (resolve) => {
         await storage.removeItem("pwdHash");
-        //this.isTestnet = IS_EXTENSION ? (await storage.getItem('isTestnet')) : (self.location.href.indexOf('testnet') > -1); // comment out this line to use mainnet
+        this.isTestnet = IS_EXTENSION ? (await storage.getItem('isTestnet')) : (self.location.href.indexOf('testnet') > -1); // comment out this line to use mainnet
         this.isDebug = IS_EXTENSION
           ? await storage.getItem("isDebug")
           : self.location.href.indexOf("debug") > -1;
