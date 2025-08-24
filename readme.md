@@ -1,6 +1,5 @@
 # New TON Wallet web base 
-
-We have fully customized this Tone Blockchain application.
+We have fully customized this Ton Blockchain application. improve this repository css style and some more features
 
 In which many new features have also been added. And it will also be integrated with Telegram bots.
 TON Wallet is a free client-side interface for interact with The Open Network blockchain.
@@ -10,11 +9,9 @@ TON Wallet is a free client-side interface for interact with The Open Network bl
 
 
 ## Security
-
 Private keys do not leave your device, the keys are stored in the browser memory, encrypted with a password that is entered during transaction generation.
 
 ## Issues and proposals
-
 Please, post your issues and proposals as Issues in this repository.
 
 ## Switch between mainnet and testnet
