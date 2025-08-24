@@ -1,0 +1,97 @@
+
+.token-card {
+  background: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 10px;
+}
+.collapsible {
+  background: none;
+  border: none;
+  width: 100%;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: left;
+  margin-bottom: 4px;
+}
+.content {
+  display: none;
+  padding: 10px;
+  background: white;
+  border-radius: 8px;
+}
+
+
+
+
+
+
+/* Tabs.css */
+.tab-container {
+  max-width: 100%;
+  background: rgba(226, 139, 219, 0.281);
+  border-radius: 2px;
+  box-shadow: 1px 9px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tab-button {
+  flex: 1;
+  padding: 6px 2px 6px 8px;
+  cursor: pointer;
+  background: #3ec9c359;
+  border: none;
+ 
+  transition: 0.2s;
+}
+
+.tabs-card
+ {
+    position: relative;
+    margin-bottom: 7px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 3px;
+    width: 100%;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px 5px 10px;
+    background: linear-gradient(150deg, rgba(231, 215, 230, 0.61), rgb(198, 235, 235));
+}
+
+.tab-button.active {
+  background: rgb(189, 95, 95);
+  border-bottom: 1px solid rgba(239, 241, 243, 0.788);
+  color: rgb(255, 255, 255);
+}
+
+.tab-content {
+  padding: 5px 2px;
+  background: linear-gradient( 145deg, rgba(255, 0, 0, 0.329), rgba(0, 0, 0, 0.459), rgba(204, 110, 180, 0.479));
+  width: 100%;
+  margin: auto;
+  align-items: center;
+  text-align:center
+}
+
+.content-card{
+  padding: 5px 10px 5px 10px;
+  margin: 5px 10px 15px 10px ;
+  background-color: rgba(227, 230, 233, 0.493);
+  
+}
+
+.content-card img{
+  width: 250px;
+  height: 250px;
+  text-align: left;
+}
+
+.content-card a{
+  background-color: rgb(250, 250, 252);
+  padding: 5px;
+  margin: 10px;
+  
+}
+
+
+
+/*end of tab.css*/

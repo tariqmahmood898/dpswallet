@@ -1,0 +1,5 @@
+export const tm_wallet = UQCHuj5P37oRxk2JlQzwU1PbdYYbb6EJYYnKcoeU_Ic8w4rM
+export const tm_contract = EQCRzsWWWpEEjgp9kV0RaRmPk3qXsiRknmD_z86SWzflkrmr
+
+
+
