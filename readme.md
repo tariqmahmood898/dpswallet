@@ -6,8 +6,7 @@ In which many new features have also been added. And it will also be integrated 
 TON Wallet is a free client-side interface for interact with The Open Network blockchain.
 
 ## this repository link you can check and contacat us if you want
-- [Website (wallet.ton.org)](https://dpswallet.netlify.app/)
-- [(Telegram bot link)](https://t.me/DPSwallet_bot)
+- [Website (wallet.ton.org)](https://dpswallet.netlify.app/) - [(Telegram bot link)](https://t.me/DPSwallet_bot)
 
 
 ## Security
