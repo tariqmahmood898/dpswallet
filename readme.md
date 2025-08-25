@@ -25,4 +25,6 @@ Please, post your issues and proposals as Issues in this repository.
 See [build](build) project directory.
 
 ## under developing feature.
-
+send it to melty user
+swapping dex 
+token display 
